@@ -1,7 +1,70 @@
 fileFormatVersion: 2
 guid: 11a1bddef906c3c4d9ebe86da2e57686
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7448100850278464756
+    second: MushroomMan_0
+  - first:
+      213: 9221055333021514652
+    second: MushroomMan_1
+  - first:
+      213: -4607980807388471468
+    second: MushroomMan_2
+  - first:
+      213: 8236126924517046258
+    second: MushroomMan_3
+  - first:
+      213: 8449007539507332236
+    second: MushroomMan_4
+  - first:
+      213: -5899209579822255568
+    second: MushroomMan_5
+  - first:
+      213: 6000615889206702645
+    second: MushroomMan_6
+  - first:
+      213: -8751778309013402368
+    second: MushroomMan_7
+  - first:
+      213: -422658004958595626
+    second: MushroomMan_8
+  - first:
+      213: 7029896042673438844
+    second: MushroomMan_9
+  - first:
+      213: -1545898659650005196
+    second: MushroomMan_10
+  - first:
+      213: -6432125457422723567
+    second: MushroomMan_11
+  - first:
+      213: 974904053260064629
+    second: MushroomMan_12
+  - first:
+      213: 2518682122370767178
+    second: MushroomMan_13
+  - first:
+      213: 1932896220794456605
+    second: MushroomMan_14
+  - first:
+      213: 1372391813753899969
+    second: MushroomMan_15
+  - first:
+      213: 362725345301550664
+    second: MushroomMan_16
+  - first:
+      213: -3443708648444623312
+    second: MushroomMan_17
+  - first:
+      213: 5718940754477076200
+    second: MushroomMan_18
+  - first:
+      213: -572849483397374748
+    second: MushroomMan_19
+  - first:
+      213: -8910504943563783082
+    second: MushroomMan_20
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -31,7 +94,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,7 +103,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +134,486 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: MushroomMan_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcf128f248fc5760800000000000000
+      internalID: 7448100850278464756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf7fa58f4c7ff70800000000000000
+      internalID: 9221055333021514652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fdacbaed92d00c0800000000000000
+      internalID: -4607980807388471468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 8
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f77edc0dc99c4270800000000000000
+      internalID: 8236126924517046258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c848ee8a797e04570800000000000000
+      internalID: 8449007539507332236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032fc1b742cc12ea0800000000000000
+      internalID: -5899209579822255568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 8
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532fabdcb58764350800000000000000
+      internalID: 6000615889206702645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 8
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d89423fff6b8680800000000000000
+      internalID: -8751778309013402368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 8
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5b7f8a8ca622af0800000000000000
+      internalID: -422658004958595626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_9
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 8
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70897f64353f8160800000000000000
+      internalID: 7029896042673438844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 8
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4371fcc0c5ddb8ae0800000000000000
+      internalID: -1545898659650005196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_11
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 7
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116529fa9ff7cb6a0800000000000000
+      internalID: -6432125457422723567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_12
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57797a8321e878d00800000000000000
+      internalID: 974904053260064629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 8
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a495906bb0824f220800000000000000
+      internalID: 2518682122370767178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_14
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 8
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a06243fd603da10800000000000000
+      internalID: 1932896220794456605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_15
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 8
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb84775517bb0310800000000000000
+      internalID: 1372391813753899969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_16
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 8
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846dabd97c8a80500800000000000000
+      internalID: 362725345301550664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_17
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 8
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0368483da3d7530d0800000000000000
+      internalID: -3443708648444623312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_18
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 6
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee4c12e052cd5f40800000000000000
+      internalID: 5718940754477076200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_19
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 5
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec55501e64dc08f0800000000000000
+      internalID: -572849483397374748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomMan_20
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 4
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654c485b6f6875480800000000000000
+      internalID: -8910504943563783082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
