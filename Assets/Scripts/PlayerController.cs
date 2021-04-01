@@ -19,7 +19,7 @@ public class PlayerController : MonoBehaviour
     bool is_Stagger = false;
 
     //player lives
-    private int playerLives = 3;
+    public int playerLives = 3;
 
     // Start is called before the first frame update
     void Start()
