@@ -7,11 +7,13 @@ public class EnemyBehaviour : MonoBehaviour
     private Rigidbody2D rb;
     private Animator anim;
     private SpriteRenderer sprite;
+    private PlayerController playercontroller;
 
     [SerializeField] private float dirX;
     public float enemySpeed;
-    private bool isStaggered = false;
+    public bool isStaggered = false;
     private bool animbool = true;
+
 
     //screen Wrapper
 
@@ -23,6 +25,11 @@ public class EnemyBehaviour : MonoBehaviour
     //enemy type
     public enum EnemyType { spider,mushroom};
     public EnemyType enemytype;
+
+    private void Awake()
+    {
+        playercontroller = GameObject.FindObjectOfType<PlayerController>();
+    }
 
     // Start is called before the first frame update
     void Start()
@@ -39,14 +46,14 @@ public class EnemyBehaviour : MonoBehaviour
         switch (enemytype)
         {
             case EnemyType.spider :
-                movememt();
+                movememt();    
             break;
 
             case EnemyType.mushroom :
                 movememt();
                 break;
         }
-
+        playercontroller.getStagger(isStaggered);
     }
 
     void movememt()

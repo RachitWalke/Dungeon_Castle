@@ -15,6 +15,11 @@ public class PlayerController : MonoBehaviour
     Renderer[] renderers;
     bool isWrappingX = false;
     bool isWrappingY = false;
+    bool isAttack = false;
+    bool is_Stagger = false;
+
+    //player lives
+    private int playerLives = 3;
 
     // Start is called before the first frame update
     void Start()
@@ -42,6 +47,17 @@ public class PlayerController : MonoBehaviour
         else
         {
             anim.SetBool("isRunning", false);
+        }
+
+        if(Input.GetMouseButton(0))
+        {
+            anim.SetBool("isAttacking", true);
+            isAttack = true;
+        }
+        else
+        {
+            anim.SetBool("isAttacking", false);
+            isAttack = false;
         }
 
         if(rb.velocity.y == 0)
@@ -73,7 +89,26 @@ public class PlayerController : MonoBehaviour
         transform.localScale = localScale;
     }
 
-   bool CheckRenderers()
+    public void getStagger(bool isStagger)
+    {
+        is_Stagger = isStagger;
+    }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "Enemy" && isAttack && is_Stagger)
+        {
+            Destroy(collision.gameObject);
+        }
+        if(collision.gameObject.tag == "Enemy" && is_Stagger == false)
+        {
+            playerLives--;
+            Debug.Log("Playerlives = " + playerLives);
+            Destroy(this.gameObject);
+        }
+    }
+
+    bool CheckRenderers()
     {
         foreach (Renderer renderer in renderers)
         {
