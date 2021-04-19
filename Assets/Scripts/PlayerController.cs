@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -15,11 +16,12 @@ public class PlayerController : MonoBehaviour
     Renderer[] renderers;
     bool isWrappingX = false;
     bool isWrappingY = false;
-    bool isAttack = false;
-    bool is_Stagger = false;
 
-    //player lives
-    public int playerLives = 3;
+    public int playerHealth;
+    public HealthBar healthBar;
+
+    public AudioSource audiosrc;
+    public AudioClip clip;
 
     // Start is called before the first frame update
     void Start()
@@ -28,6 +30,8 @@ public class PlayerController : MonoBehaviour
         anim = GetComponent<Animator>();
         renderers = GetComponentsInChildren<Renderer>();
         localScale = transform.localScale;
+        healthBar.setMaxHealth(playerHealth);
+        audiosrc = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -49,17 +53,6 @@ public class PlayerController : MonoBehaviour
             anim.SetBool("isRunning", false);
         }
 
-        if(Input.GetMouseButton(0))
-        {
-            anim.SetBool("isAttacking", true);
-            isAttack = true;
-        }
-        else
-        {
-            anim.SetBool("isAttacking", false);
-            isAttack = false;
-        }
-
         if(rb.velocity.y == 0)
         {
             anim.SetBool("isJumping", false);
@@ -69,8 +62,8 @@ public class PlayerController : MonoBehaviour
         if (rb.velocity.y < 0)
             anim.SetBool("isJumping", true);
 
+        //screenwrap
         ScreenWrap();
-        //GameManager.instance.screenWrapper.ScreenWrap();
     }
     private void FixedUpdate()
     {
@@ -89,22 +82,44 @@ public class PlayerController : MonoBehaviour
         transform.localScale = localScale;
     }
 
-    public void getStagger(bool isStagger)
+    public void TakeDamage(int Damage)
     {
-        is_Stagger = isStagger;
+        playerHealth -= Damage;
+        healthBar.setHealth(playerHealth);
+        audiosrc.PlayOneShot(clip);
+        if(playerHealth == 0)
+        {
+            SceneManager.LoadScene("GameOver");
+        }
     }
 
-    private void OnCollisionStay2D(Collision2D collision)
+    public void setVolume(float musicvol)
     {
-        if(collision.gameObject.tag == "Enemy" && isAttack && is_Stagger)
+        audiosrc.volume = musicvol;
+    }
+
+    public void Mute()
+    {
+        if (audiosrc.mute)
         {
-            Destroy(collision.gameObject);
+            audiosrc.mute = false;
         }
-        if(collision.gameObject.tag == "Enemy" && is_Stagger == false)
+        else
         {
-            playerLives--;
-            Debug.Log("Playerlives = " + playerLives);
-            Destroy(this.gameObject);
+            audiosrc.mute = true;
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "Destroyer")
+        {
+            playerHealth = 0;
+            SceneManager.LoadScene("GameOver");
+        }
+        if (collision.tag == "LevelEnd")
+        {
+            SceneManager.LoadScene("GameOver");
         }
     }
 

@@ -20,11 +20,8 @@ public class ScreenWraper : MonoBehaviour
             // If at least one render is visible, return true
             if (renderer.isVisible)
             {
-                Debug.Log("Object is visible");
                 return true;
             }
-            else
-                Debug.Log("Object is not visible");
         }
 
         // Otherwise, the object is invisible

@@ -7,12 +7,16 @@ public class EnemyBehaviour : MonoBehaviour
     private Rigidbody2D rb;
     private Animator anim;
     private SpriteRenderer sprite;
-    private PlayerController playercontroller;
 
     [SerializeField] private float dirX;
     public float enemySpeed;
     public bool isStaggered = false;
     private bool animbool = true;
+    public int enemyHealth;
+
+    //audio
+    public AudioSource audiosrc;
+    public AudioClip clip;
 
 
     //screen Wrapper
@@ -23,13 +27,12 @@ public class EnemyBehaviour : MonoBehaviour
 
 
     //enemy type
-    public enum EnemyType { spider,mushroom};
+    public enum EnemyType { spider,mushroom,skeleton};
     public EnemyType enemytype;
 
-    private void Awake()
-    {
-        playercontroller = GameObject.FindObjectOfType<PlayerController>();
-    }
+    //efects
+    public GameObject bloodeffect;
+    private CameraShake shake;
 
     // Start is called before the first frame update
     void Start()
@@ -38,6 +41,8 @@ public class EnemyBehaviour : MonoBehaviour
         anim = GetComponent<Animator>();
         sprite = GetComponent<SpriteRenderer>();
         renderers = GetComponentsInChildren<Renderer>();
+        shake = GameObject.FindGameObjectWithTag("ScreenShake").GetComponent<CameraShake>();
+        audiosrc = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -46,14 +51,34 @@ public class EnemyBehaviour : MonoBehaviour
         switch (enemytype)
         {
             case EnemyType.spider :
-                movememt();    
-            break;
+                movememt();
+                break;
 
             case EnemyType.mushroom :
                 movememt();
                 break;
+            case EnemyType.skeleton:
+                movememt();
+                break;
         }
-        playercontroller.getStagger(isStaggered);
+
+        //destroy enemy
+        if(enemyHealth <= 0)
+        {
+            Destroy(gameObject);
+            switch (enemytype)
+            {
+                case EnemyType.spider:
+                    GameManager.instance.UpdateScore(100);
+                    break;
+                case EnemyType.mushroom:
+                    GameManager.instance.UpdateScore(200);
+                    break;
+                case EnemyType.skeleton:
+                    GameManager.instance.UpdateScore(500);
+                    break;
+            }
+        }
     }
 
     void movememt()
@@ -61,10 +86,27 @@ public class EnemyBehaviour : MonoBehaviour
         if (isStaggered)
         {
             rb.velocity = new Vector2(0f, 0f);
+            rb.constraints = RigidbodyConstraints2D.FreezePositionX;
+            switch (enemytype)
+            {
+                case EnemyType.spider:
+                    StartCoroutine(Revive(4f));
+                    break;
+                case EnemyType.mushroom:
+                    StartCoroutine(Revive(3f));
+                    break;
+                case EnemyType.skeleton:
+                    StartCoroutine(Revive(3.5f));
+                    break;
+            }
         }  
         else if (!isStaggered)
+        {
             rb.velocity = new Vector2(dirX, rb.velocity.y) * enemySpeed;
-
+            rb.constraints = RigidbodyConstraints2D.None;
+            rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+        }
+            
         ScreenWrap();
     }
 
@@ -85,9 +127,53 @@ public class EnemyBehaviour : MonoBehaviour
        
     }
 
+    IEnumerator Revive(float waitTime)
+    {
+        //wait and revive
+        yield return new WaitForSeconds(waitTime);
+        anim.SetBool("isStagger", animbool);
+        isStaggered = !isStaggered;
+        animbool = !animbool;
+        flip();
+        //stop coroutine
+        if(isStaggered==false)
+        {
+            StopAllCoroutines();
+        }
+        yield break;
+    }
+
+    public void TakeDamage(int damage)
+    {
+        if(isStaggered)
+        {
+            shake.CamShake();
+            enemyHealth -= damage;
+            Instantiate(bloodeffect, transform.position, Quaternion.identity);
+        }
+    }
+
+    public void statMultiiplier()
+    {
+        switch (enemytype)
+        {
+            case EnemyType.spider:
+                enemySpeed += 1;
+                enemyHealth += 1;
+                break;
+            case EnemyType.mushroom:
+                enemySpeed += 1;
+                enemyHealth += 1;
+                break;
+            case EnemyType.skeleton:
+                enemyHealth += 1;
+                break;
+        }
+    }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "Flipper")
+        if (collision.gameObject.tag == "Enemy")
         {
             switch (enemytype)
             {
@@ -96,6 +182,10 @@ public class EnemyBehaviour : MonoBehaviour
                     flip();
                     break;
                 case EnemyType.mushroom:
+                    dirX = -dirX;
+                    flip();
+                    break;
+                case EnemyType.skeleton:
                     dirX = -dirX;
                     flip();
                     break;
@@ -106,6 +196,7 @@ public class EnemyBehaviour : MonoBehaviour
     {
         if (collision.tag == "Player" && rb.velocity.y == 0f)
         {
+            audiosrc.PlayOneShot(clip);
             switch (enemytype)
             {
                 case EnemyType.spider:
@@ -120,7 +211,50 @@ public class EnemyBehaviour : MonoBehaviour
                     animbool = !animbool;
                     flip();
                     break;
+                case EnemyType.skeleton:
+                    anim.SetBool("isStagger", animbool);
+                    isStaggered = !isStaggered;
+                    animbool = !animbool;
+                    flip();
+                    break;
             }
+        }
+        if(collision.tag == "Flipper")
+        {
+            switch (enemytype)
+            {
+                case EnemyType.spider:
+                    dirX = -dirX;
+                    flip();
+                    break;
+                case EnemyType.mushroom:
+                    dirX = -dirX;
+                    flip();
+                    break;
+                case EnemyType.skeleton:
+                    dirX = -dirX;
+                    flip();
+                    break;
+            }
+        }
+    }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+
+        if (collision.gameObject.tag == "Player" && !isStaggered)
+        {
+            GameManager.instance.takeDamage(1);
+            Destroy(collision.gameObject);
+            GameManager.instance.spwanPlayer();
+        }
+        if (collision.gameObject.tag == "Destroyer")
+        {
+            Destroy(this.gameObject);
+        }
+        if (collision.gameObject.tag == "Enemy")
+        {
+            rb.constraints = RigidbodyConstraints2D.FreezePositionY;
         }
     }
 
@@ -132,11 +266,8 @@ public class EnemyBehaviour : MonoBehaviour
             // If at least one render is visible, return true
             if (renderer.isVisible)
             {
-                Debug.Log("Object is visible");
                 return true;
             }
-            else
-                Debug.Log("Object is not visible");
         }
 
         // Otherwise, the object is invisible

@@ -8,6 +8,10 @@ TagManager:
   - Respwanleft
   - RespwanRight
   - Flipper
+  - Destroyer
+  - ScreenShake
+  - GameManager
+  - LevelEnd
   layers:
   - Default
   - TransparentFX
@@ -15,9 +19,9 @@ TagManager:
   - 
   - Water
   - UI
+  - Player
   - 
-  - 
-  - 
+  - Enemy
   - 
   - 
   - 
@@ -53,4 +57,7 @@ TagManager:
     locked: 0
   - name: player
     uniqueID: 1350807011
+    locked: 0
+  - name: HUD
+    uniqueID: 130847671
     locked: 0

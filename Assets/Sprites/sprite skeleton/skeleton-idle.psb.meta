@@ -1,0 +1,4176 @@
+fileFormatVersion: 2
+guid: b186d41bce46cc24eaa673507940b825
+ScriptedImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6416645517455541249
+    second: skeleton-idle_0
+  - first:
+      213: 3727261204410916548
+    second: skeleton-idle_1
+  - first:
+      213: -2152684077923257122
+    second: skeleton-idle_2
+  - first:
+      213: 4944351648152529930
+    second: skeleton-idle_3
+  - first:
+      213: -8704670590310787622
+    second: skeleton-idle_4
+  - first:
+      213: -514433581687967581
+    second: skeleton-idle_5
+  - first:
+      213: -2128541342612127428
+    second: skeleton-idle_6
+  - first:
+      213: 6668983981682942933
+    second: skeleton-idle_7
+  - first:
+      213: 2349820237400780394
+    second: skeleton-idle_8
+  - first:
+      213: -2921644647713221150
+    second: skeleton-idle_9
+  - first:
+      213: -8206066862642023574
+    second: skeleton-idle_10
+  - first:
+      213: 4180403551298336736
+    second: skeleton-idle_11
+  - first:
+      213: 2298197588317285241
+    second: skeleton-idle_12
+  - first:
+      213: -5411473805246196575
+    second: skeleton-idle_13
+  - first:
+      213: 6935585023119214843
+    second: skeleton-idle_14
+  - first:
+      213: 9132273326739536335
+    second: skeleton-idle_15
+  - first:
+      213: -3490441480914448722
+    second: skeleton-idle_16
+  - first:
+      213: 3240380944475885067
+    second: skeleton-idle_17
+  - first:
+      213: -7243318503649869580
+    second: skeleton-idle_18
+  - first:
+      213: -4563848022348462938
+    second: skeleton-idle_19
+  - first:
+      213: 1792687436459509751
+    second: skeleton-idle_20
+  - first:
+      213: 953292753448846932
+    second: skeleton-idle_21
+  - first:
+      213: 7215033017084772633
+    second: skeleton-idle_22
+  - first:
+      213: 920467739005039334
+    second: skeleton-idle_23
+  - first:
+      213: 3355525197097838183
+    second: skeleton-idle_24
+  - first:
+      213: 2026103033410859634
+    second: skeleton-idle_25
+  - first:
+      213: 8550599102094948883
+    second: skeleton-idle_26
+  - first:
+      213: -9057737288285711904
+    second: skeleton-idle_27
+  - first:
+      213: -3696665596406072304
+    second: skeleton-idle_28
+  - first:
+      213: 7091109514011440840
+    second: skeleton-idle_29
+  - first:
+      213: -705190302730834381
+    second: skeleton-idle_30
+  - first:
+      213: -6527046443667484608
+    second: skeleton-idle_31
+  - first:
+      213: 1311368506043361596
+    second: skeleton-idle_32
+  - first:
+      213: 1639701117383952492
+    second: skeleton-idle_33
+  - first:
+      213: 1091701749645502591
+    second: skeleton-idle_34
+  - first:
+      213: -5219223059851266831
+    second: skeleton-idle_35
+  - first:
+      213: 6604693633436422919
+    second: skeleton-idle_36
+  - first:
+      213: 437989887505842459
+    second: skeleton-idle_37
+  - first:
+      213: -1322693882802982619
+    second: skeleton-idle_38
+  - first:
+      213: -1858437239899192728
+    second: skeleton-idle_39
+  - first:
+      213: 1815165635404306930
+    second: skeleton-idle_40
+  - first:
+      213: 168795847270183510
+    second: skeleton-idle_41
+  - first:
+      213: 7474391675777583396
+    second: skeleton-idle_42
+  - first:
+      213: 622362514516069656
+    second: skeleton-idle_43
+  - first:
+      213: -6313552169480087558
+    second: skeleton-idle_44
+  - first:
+      213: -6317786649753047167
+    second: skeleton-idle_45
+  - first:
+      213: 721424571142460197
+    second: skeleton-idle_46
+  - first:
+      213: -6400925782006923774
+    second: skeleton-idle_47
+  - first:
+      213: -6678432504848980287
+    second: skeleton-idle_48
+  - first:
+      213: 5906468000088455587
+    second: skeleton-idle_49
+  - first:
+      213: 7589873618626045714
+    second: skeleton-idle_50
+  - first:
+      213: 223623934073341593
+    second: skeleton-idle_51
+  - first:
+      213: -3820754170511409579
+    second: skeleton-idle_52
+  - first:
+      213: -3333518452577715657
+    second: skeleton-idle_53
+  - first:
+      213: -759648665262171301
+    second: skeleton-idle_54
+  - first:
+      213: -6552729268597660817
+    second: skeleton-idle_55
+  - first:
+      213: 2865074487656861122
+    second: skeleton-idle_56
+  - first:
+      213: -4254976786223585933
+    second: skeleton-idle_57
+  - first:
+      213: 3216910980785534607
+    second: skeleton-idle_58
+  - first:
+      213: 92002460249593901
+    second: skeleton-idle_59
+  - first:
+      213: 1497640102718240724
+    second: skeleton-idle_60
+  - first:
+      213: -4087135669008706526
+    second: skeleton-idle_61
+  - first:
+      213: 909568828659538495
+    second: skeleton-idle_62
+  - first:
+      213: -8411444112961333143
+    second: skeleton-idle_63
+  - first:
+      213: 883150402261117439
+    second: skeleton-idle_64
+  - first:
+      213: -1489105195070062399
+    second: skeleton-idle_65
+  - first:
+      213: -6101932331800967631
+    second: skeleton-idle_66
+  - first:
+      213: 4181809164593965682
+    second: skeleton-idle_67
+  - first:
+      213: -8185745867125936084
+    second: skeleton-idle_68
+  - first:
+      213: -1472892788022064083
+    second: skeleton-idle_69
+  - first:
+      213: -8970152101976690821
+    second: skeleton-idle_70
+  - first:
+      213: 4131768020030229772
+    second: skeleton-idle_71
+  - first:
+      213: 683945927512714054
+    second: skeleton-idle_72
+  - first:
+      213: 76239866257458963
+    second: skeleton-idle_73
+  - first:
+      213: -8994976326211051800
+    second: skeleton-idle_74
+  - first:
+      213: 5827659353910223538
+    second: skeleton-idle_75
+  - first:
+      213: 7345572469779881641
+    second: skeleton-idle_76
+  - first:
+      213: -2609669313416528466
+    second: skeleton-idle_77
+  - first:
+      213: 5334508052681282614
+    second: skeleton-idle_78
+  - first:
+      213: 5129907482425248709
+    second: skeleton-idle_79
+  - first:
+      213: 6226294456892184370
+    second: skeleton-idle_80
+  - first:
+      213: 2817446740100518667
+    second: skeleton-idle_81
+  - first:
+      213: 4926233586705810829
+    second: skeleton-idle_82
+  - first:
+      213: 6954390243047619067
+    second: skeleton-idle_83
+  - first:
+      213: 6524799653754669439
+    second: skeleton-idle_84
+  - first:
+      213: 4473934702420102789
+    second: skeleton-idle_85
+  - first:
+      213: -3841270444065781897
+    second: skeleton-idle_86
+  - first:
+      213: -5058076679248973134
+    second: skeleton-idle_87
+  - first:
+      213: -1721845953084146830
+    second: skeleton-idle_88
+  - first:
+      213: 5150968606034607915
+    second: skeleton-idle_89
+  - first:
+      213: -6899528346763416662
+    second: skeleton-idle_90
+  - first:
+      213: 730808495390372003
+    second: skeleton-idle_91
+  - first:
+      213: 2677503238297935997
+    second: skeleton-idle_92
+  - first:
+      213: -460140708723928958
+    second: skeleton-idle_93
+  - first:
+      213: 3288236631511074631
+    second: skeleton-idle_94
+  - first:
+      213: -2429306007665141563
+    second: skeleton-idle_95
+  - first:
+      213: -3444761502860926342
+    second: skeleton-idle_96
+  - first:
+      213: -3198274742961250200
+    second: skeleton-idle_97
+  - first:
+      213: -8532666806309744610
+    second: skeleton-idle_98
+  - first:
+      213: -4171026604054083824
+    second: skeleton-idle_99
+  - first:
+      213: -1223687426989383979
+    second: skeleton-idle_100
+  - first:
+      213: -3134489163497273374
+    second: skeleton-idle_101
+  - first:
+      213: -7540313487985965233
+    second: skeleton-idle_102
+  - first:
+      213: -3490349080085251813
+    second: skeleton-idle_103
+  - first:
+      213: 5965560982595263598
+    second: skeleton-idle_104
+  - first:
+      213: -826099184520317828
+    second: skeleton-idle_105
+  - first:
+      213: -5736876916900387008
+    second: skeleton-idle_106
+  - first:
+      213: -1766731020228024687
+    second: skeleton-idle_107
+  - first:
+      213: -8777974677339184107
+    second: skeleton-idle_108
+  - first:
+      213: 2768078404059281796
+    second: skeleton-idle_109
+  - first:
+      213: 4073585715662015380
+    second: skeleton-idle_110
+  - first:
+      213: 6689100072049387501
+    second: skeleton-idle_111
+  - first:
+      213: 5919725905838040783
+    second: skeleton-idle_112
+  - first:
+      213: 7911036964747876451
+    second: skeleton-idle_113
+  - first:
+      213: -1599696956994916133
+    second: skeleton-idle_114
+  - first:
+      213: -7673945346621106381
+    second: skeleton-idle_115
+  - first:
+      213: -6097671215130748868
+    second: skeleton-idle_116
+  - first:
+      213: 7695415122494149528
+    second: skeleton-idle_117
+  - first:
+      213: -4115813152398181521
+    second: skeleton-idle_118
+  - first:
+      213: 1864976051067235901
+    second: skeleton-idle_119
+  - first:
+      213: 6064516382646863203
+    second: skeleton-idle_120
+  - first:
+      213: 5057962453647551104
+    second: skeleton-idle_121
+  - first:
+      213: 4512089171835002581
+    second: skeleton-idle_122
+  - first:
+      213: 705447052884911870
+    second: skeleton-idle_123
+  - first:
+      213: 764679603486843953
+    second: skeleton-idle_124
+  - first:
+      213: -3990413161901009309
+    second: skeleton-idle_125
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: skeleton-idle_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1841
+      width: 133
+      height: 200
+    spriteID: ffbb57216ee73f6a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1841}
+  - name: skeleton-idle_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 1837
+      width: 131
+      height: 207
+    spriteID: 4ced10a4154e9b330800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 150, y: 1837}
+  - name: skeleton-idle_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 1795
+      width: 127
+      height: 220
+    spriteID: ed4bebd8c312022e0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 291, y: 1795}
+  - name: skeleton-idle_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 1754
+      width: 126
+      height: 220
+    spriteID: a0cafb0b0addd9440800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 435, y: 1754}
+  - name: skeleton-idle_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 580
+      y: 1770
+      width: 125
+      height: 219
+    spriteID: ad55cb9a73cc23780800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 580, y: 1770}
+  - name: skeleton-idle_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 721
+      y: 1782
+      width: 125
+      height: 219
+    spriteID: 3a0f4fe026d5cd8f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 721, y: 1782}
+  - name: skeleton-idle_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 1769
+      width: 127
+      height: 208
+    spriteID: c310fd72de6e572e0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 863, y: 1769}
+  - name: skeleton-idle_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1001
+      y: 1751
+      width: 126
+      height: 208
+    spriteID: 5d36bf8f89dfc8c50800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1001, y: 1751}
+  - name: skeleton-idle_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1138
+      y: 1696
+      width: 124
+      height: 214
+    spriteID: a6e2c485e0d3c9020800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1138, y: 1696}
+  - name: skeleton-idle_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1280
+      y: 1708
+      width: 129
+      height: 205
+    spriteID: 2e5d1252cab3477d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1280, y: 1708}
+  - name: skeleton-idle_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1419
+      y: 1717
+      width: 124
+      height: 208
+    spriteID: a633e118aa13e1e80800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1419, y: 1717}
+  - name: skeleton-idle_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1559
+      y: 1740
+      width: 125
+      height: 208
+    spriteID: 0e73be491e6c30a30800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1559, y: 1740}
+  - name: skeleton-idle_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1692
+      y: 1724
+      width: 125
+      height: 209
+    spriteID: 97baf4bb786d4ef10800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1692, y: 1724}
+  - name: skeleton-idle_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 1727
+      width: 125
+      height: 207
+    spriteID: 1a418fece3596e4b0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1828, y: 1727}
+  - name: skeleton-idle_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1611
+      width: 134
+      height: 221
+    spriteID: bf84a8c05d5204060800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1611}
+  - name: skeleton-idle_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 1607
+      width: 128
+      height: 222
+    spriteID: fc9b510b43a5cbe70800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 150, y: 1607}
+  - name: skeleton-idle_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 1569
+      width: 130
+      height: 217
+    spriteID: eae4ecc57f57f8fc0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 291, y: 1569}
+  - name: skeleton-idle_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 1532
+      width: 131
+      height: 213
+    spriteID: b0e0e6cfc4528fc20800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 435, y: 1532}
+  - name: skeleton-idle_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 580
+      y: 1545
+      width: 126
+      height: 217
+    spriteID: 4f08fea92309a7b90800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 580, y: 1545}
+  - name: skeleton-idle_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 721
+      y: 1555
+      width: 125
+      height: 218
+    spriteID: 6a40d0b6764f9a0c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 721, y: 1555}
+  - name: skeleton-idle_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 1545
+      width: 124
+      height: 214
+    spriteID: 7f78973b9b7e0e810800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 863, y: 1545}
+  - name: skeleton-idle_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1000
+      y: 1536
+      width: 129
+      height: 206
+    spriteID: 456c54065b6ca3d00800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1000, y: 1536}
+  - name: skeleton-idle_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1138
+      y: 1474
+      width: 124
+      height: 214
+    spriteID: 9118d0a5d42f02460800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1138, y: 1474}
+  - name: skeleton-idle_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1280
+      y: 1495
+      width: 129
+      height: 205
+    spriteID: 6e23a92288826cc00800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1280, y: 1495}
+  - name: skeleton-idle_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1419
+      y: 1504
+      width: 129
+      height: 204
+    spriteID: 766a3ef6368319e20800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1419, y: 1504}
+  - name: skeleton-idle_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1559
+      y: 1524
+      width: 124
+      height: 208
+    spriteID: 272bbc069f92e1c10800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1559, y: 1524}
+  - name: skeleton-idle_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1692
+      y: 1507
+      width: 125
+      height: 209
+    spriteID: 31ab4219494d9a670800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1692, y: 1507}
+  - name: skeleton-idle_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 1513
+      width: 126
+      height: 206
+    spriteID: 0e19bee1de37c4280800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1828, y: 1513}
+  - name: skeleton-idle_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1383
+      width: 135
+      height: 220
+    spriteID: 01cfec0d93ec2bcc0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1383}
+  - name: skeleton-idle_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 1381
+      width: 131
+      height: 218
+    spriteID: 8c67b0e588ea86260800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 150, y: 1381}
+  - name: skeleton-idle_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 1347
+      width: 132
+      height: 214
+    spriteID: 33eadaae729a636f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 291, y: 1347}
+  - name: skeleton-idle_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 1306
+      width: 128
+      height: 217
+    spriteID: 04019bc57d54b65a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 435, y: 1306}
+  - name: skeleton-idle_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 580
+      y: 1317
+      width: 125
+      height: 220
+    spriteID: c39695455bae23210800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 580, y: 1317}
+  - name: skeleton-idle_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 1338
+      width: 130
+      height: 209
+    spriteID: c684b7f8a7361c610800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 722, y: 1338}
+  - name: skeleton-idle_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 1320
+      width: 124
+      height: 216
+    spriteID: f78ea4c05f0862f00800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 863, y: 1320}
+  - name: skeleton-idle_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1001
+      y: 1318
+      width: 124
+      height: 210
+    spriteID: 1f4b90a97489197b0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1001, y: 1318}
+  - name: skeleton-idle_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1138
+      y: 1263
+      width: 131
+      height: 202
+    spriteID: 703134fcdd598ab50800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1138, y: 1263}
+  - name: skeleton-idle_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1281
+      y: 1277
+      width: 124
+      height: 210
+    spriteID: b11cffb6b7d041600800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1281, y: 1277}
+  - name: skeleton-idle_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1419
+      y: 1287
+      width: 126
+      height: 209
+    spriteID: 52132f8ebe8d4ade0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1419, y: 1287}
+  - name: skeleton-idle_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1559
+      y: 1307
+      width: 124
+      height: 209
+    spriteID: 862837e3d218536e0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1559, y: 1307}
+  - name: skeleton-idle_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1692
+      y: 1291
+      width: 125
+      height: 208
+    spriteID: 2f915ca3783c03910800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1692, y: 1291}
+  - name: skeleton-idle_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 1297
+      width: 125
+      height: 208
+    spriteID: 652b914cdeea75200800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1828, y: 1297}
+  - name: skeleton-idle_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1153
+      width: 134
+      height: 221
+    spriteID: 4290cdac0af5ab760800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1153}
+  - name: skeleton-idle_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 1150
+      width: 129
+      height: 222
+    spriteID: 81dcf37d86313a800800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 150, y: 1150}
+  - name: skeleton-idle_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 1126
+      width: 133
+      height: 213
+    spriteID: af71e33a0c1c168a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 291, y: 1126}
+  - name: skeleton-idle_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 1091
+      width: 135
+      height: 207
+    spriteID: 18fa3ced386b258a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 435, y: 1091}
+  - name: skeleton-idle_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 581
+      y: 1101
+      width: 132
+      height: 207
+    spriteID: 5235f2f33d3030a00800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 581, y: 1101}
+  - name: skeleton-idle_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 1122
+      width: 131
+      height: 207
+    spriteID: 20e76d13ae75b27a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 722, y: 1122}
+  - name: skeleton-idle_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 1104
+      width: 129
+      height: 208
+    spriteID: 1c6ed0c45017153a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 863, y: 1104}
+  - name: skeleton-idle_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1000
+      y: 1097
+      width: 125
+      height: 212
+    spriteID: 3a9fb7e2a5df7f150800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1000, y: 1097}
+  - name: skeleton-idle_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1138
+      y: 1054
+      width: 132
+      height: 201
+    spriteID: 2176050e7d5a45960800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1138, y: 1054}
+  - name: skeleton-idle_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1280
+      y: 1067
+      width: 130
+      height: 202
+    spriteID: 99687b188c87a1300800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1280, y: 1067}
+  - name: skeleton-idle_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1419
+      y: 1070
+      width: 126
+      height: 208
+    spriteID: 55e339c3354f9fac0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1419, y: 1070}
+  - name: skeleton-idle_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1559
+      y: 1090
+      width: 124
+      height: 209
+    spriteID: 73a35ed01a6fcb1d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1559, y: 1090}
+  - name: skeleton-idle_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1693
+      y: 1074
+      width: 124
+      height: 208
+    spriteID: b5bd2f0509f2575f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1693, y: 1074}
+  - name: skeleton-idle_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 1082
+      width: 125
+      height: 207
+    spriteID: f636ee3b2770015a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1828, y: 1082}
+  - name: skeleton-idle_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 923
+      width: 136
+      height: 221
+    spriteID: 2cd42d3111ac2c720800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 923}
+  - name: skeleton-idle_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 922
+      width: 132
+      height: 220
+    spriteID: 3752c91282943f4c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 150, y: 922}
+  - name: skeleton-idle_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 898
+      width: 130
+      height: 219
+    spriteID: f8676cb3e73c4ac20800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 291, y: 898}
+  - name: skeleton-idle_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 875
+      width: 135
+      height: 208
+    spriteID: d2893a900cbd64100800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 435, y: 875}
+  - name: skeleton-idle_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 581
+      y: 885
+      width: 132
+      height: 207
+    spriteID: 4d776e31dbfa8c410800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 581, y: 885}
+  - name: skeleton-idle_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 897
+      width: 124
+      height: 217
+    spriteID: 22458eb73c39747c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 722, y: 897}
+  - name: skeleton-idle_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 888
+      width: 129
+      height: 208
+    spriteID: f3a1503d7007f9c00800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 863, y: 888}
+  - name: skeleton-idle_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1001
+      y: 877
+      width: 125
+      height: 211
+    spriteID: 96893ee152c844b80800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1001, y: 877}
+  - name: skeleton-idle_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1138
+      y: 843
+      width: 132
+      height: 202
+    spriteID: ff9640a9c94914c00800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1138, y: 843}
+  - name: skeleton-idle_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1280
+      y: 855
+      width: 129
+      height: 204
+    spriteID: 1c009a6f6b2a55be0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1280, y: 855}
+  - name: skeleton-idle_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1419
+      y: 857
+      width: 127
+      height: 205
+    spriteID: 1364887afd4915ba0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1419, y: 857}
+  - name: skeleton-idle_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1559
+      y: 874
+      width: 124
+      height: 208
+    spriteID: 27aa81e6745c80a30800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1559, y: 874}
+  - name: skeleton-idle_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1693
+      y: 859
+      width: 125
+      height: 206
+    spriteID: c203658f083666e80800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1693, y: 859}
+  - name: skeleton-idle_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 866
+      width: 125
+      height: 207
+    spriteID: d2cc5b120db3f8be0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1828, y: 866}
+  - name: skeleton-idle_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 694
+      width: 136
+      height: 221
+    spriteID: b7fa47c603e938380800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 694}
+  - name: skeleton-idle_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 693
+      width: 130
+      height: 221
+    spriteID: c0d88388f1df65930800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 151, y: 693}
+  - name: skeleton-idle_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 674
+      width: 132
+      height: 216
+    spriteID: 64b68f6823ddd7900800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 291, y: 674}
+  - name: skeleton-idle_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 649
+      width: 128
+      height: 218
+    spriteID: 317cff121cbde0100800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 435, y: 649}
+  - name: skeleton-idle_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 581
+      y: 669
+      width: 132
+      height: 207
+    spriteID: 8ee542150bc6b2380800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 581, y: 669}
+  - name: skeleton-idle_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 721
+      y: 675
+      width: 129
+      height: 212
+    spriteID: 2b22dcd5e4100e050800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 721, y: 675}
+  - name: skeleton-idle_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 670
+      width: 128
+      height: 210
+    spriteID: 9ae5e152e37b0f560800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 863, y: 670}
+  - name: skeleton-idle_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1001
+      y: 655
+      width: 124
+      height: 213
+    spriteID: eadf198069798cbd0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1001, y: 655}
+  - name: skeleton-idle_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1138
+      y: 634
+      width: 132
+      height: 201
+    spriteID: 634578b7fcaf70a40800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1138, y: 634}
+  - name: skeleton-idle_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1280
+      y: 643
+      width: 130
+      height: 204
+    spriteID: 5cb43940da7113740800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1280, y: 643}
+  - name: skeleton-idle_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1419
+      y: 646
+      width: 130
+      height: 202
+    spriteID: 237da0af1dd386650800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1419, y: 646}
+  - name: skeleton-idle_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1559
+      y: 657
+      width: 125
+      height: 208
+    spriteID: b031645f1e4991720800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1559, y: 657}
+  - name: skeleton-idle_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1692
+      y: 646
+      width: 126
+      height: 205
+    spriteID: d85c238c85f7d5440800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1692, y: 646}
+  - name: skeleton-idle_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 649
+      width: 125
+      height: 208
+    spriteID: bf9bb428415f28060800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1828, y: 649}
+  - name: skeleton-idle_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 463
+      width: 137
+      height: 222
+    spriteID: f7983a817bebc8a50800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 463}
+  - name: skeleton-idle_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 465
+      width: 132
+      height: 219
+    spriteID: 58e0b0e68eb961e30800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 150, y: 465}
+  - name: skeleton-idle_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 451
+      width: 134
+      height: 214
+    spriteID: 777804f02e011bac0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 291, y: 451}
+  - name: skeleton-idle_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 435
+      width: 135
+      height: 206
+    spriteID: 2b27dae1f0a1ec9b0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 435, y: 435}
+  - name: skeleton-idle_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 580
+      y: 442
+      width: 127
+      height: 218
+    spriteID: 27bb9787a36ca18e0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 580, y: 442}
+  - name: skeleton-idle_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 721
+      y: 447
+      width: 125
+      height: 220
+    spriteID: b2fb1ebf7aaeb7740800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 721, y: 447}
+  - name: skeleton-idle_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 445
+      width: 125
+      height: 216
+    spriteID: aabad6d1683ff30a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 863, y: 445}
+  - name: skeleton-idle_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1001
+      y: 439
+      width: 128
+      height: 207
+    spriteID: 3a0b49e547a542a00800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1001, y: 439}
+  - name: skeleton-idle_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1138
+      y: 423
+      width: 131
+      height: 203
+    spriteID: d70e4bb5207682520800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1138, y: 423}
+  - name: skeleton-idle_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1281
+      y: 427
+      width: 125
+      height: 207
+    spriteID: 28050dd96704d99f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1281, y: 427}
+  - name: skeleton-idle_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1419
+      y: 434
+      width: 130
+      height: 203
+    spriteID: 74705a66bc922ad20800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1419, y: 434}
+  - name: skeleton-idle_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1559
+      y: 439
+      width: 125
+      height: 209
+    spriteID: 5c8956a9e0f594ed0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1559, y: 439}
+  - name: skeleton-idle_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1692
+      y: 431
+      width: 127
+      height: 206
+    spriteID: a72a80e0aafb130d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1692, y: 431}
+  - name: skeleton-idle_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 435
+      width: 125
+      height: 206
+    spriteID: 860e0b301127d93d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1828, y: 435}
+  - name: skeleton-idle_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 234
+      width: 137
+      height: 221
+    spriteID: e1014276fb0e59980800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 234}
+  - name: skeleton-idle_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 234
+      width: 132
+      height: 221
+    spriteID: 01707a417698d16c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 150, y: 234}
+  - name: skeleton-idle_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 227
+      width: 135
+      height: 215
+    spriteID: 5de9f2eb4c6940fe0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 291, y: 227}
+  - name: skeleton-idle_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 219
+      width: 136
+      height: 207
+    spriteID: 2e70f6986be0084d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 435, y: 219}
+  - name: skeleton-idle_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 581
+      y: 222
+      width: 129
+      height: 212
+    spriteID: f47828d35dc6b5790800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 581, y: 222}
+  - name: skeleton-idle_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 721
+      y: 219
+      width: 125
+      height: 220
+    spriteID: b19386b110acf8fc0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 721, y: 219}
+  - name: skeleton-idle_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 224
+      width: 127
+      height: 211
+    spriteID: e6c55855b1ee9c250800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 863, y: 224}
+  - name: skeleton-idle_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1001
+      y: 223
+      width: 129
+      height: 207
+    spriteID: c743d652b2b1984f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1001, y: 223}
+  - name: skeleton-idle_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 213
+      width: 131
+      height: 201
+    spriteID: 047a300e6d48260b0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1139, y: 213}
+  - name: skeleton-idle_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1280
+      y: 215
+      width: 130
+      height: 203
+    spriteID: 19625a56f7f4b77e0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1280, y: 215}
+  - name: skeleton-idle_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1419
+      y: 214
+      width: 124
+      height: 212
+    spriteID: 514e2d5e98e5e2680800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1419, y: 214}
+  - name: skeleton-idle_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1559
+      y: 222
+      width: 125
+      height: 209
+    spriteID: 489326084a03a6620800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1559, y: 222}
+  - name: skeleton-idle_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1692
+      y: 217
+      width: 127
+      height: 206
+    spriteID: 49bc32820a8488830800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1692, y: 217}
+  - name: skeleton-idle_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 219
+      width: 126
+      height: 207
+    spriteID: de72b8d331574dc50800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1828, y: 219}
+  - name: skeleton-idle_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5
+      width: 138
+      height: 220
+    spriteID: fc66729e857172250800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 5}
+  - name: skeleton-idle_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 5
+      width: 132
+      height: 221
+    spriteID: 36818c87436a9cd60800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 150, y: 5}
+  - name: skeleton-idle_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 5
+      width: 136
+      height: 214
+    spriteID: bd07b0ad71cbcc9e0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 291, y: 5}
+  - name: skeleton-idle_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 5
+      width: 136
+      height: 206
+    spriteID: 33713e49d5ba08590800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 435, y: 5}
+  - name: skeleton-idle_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 581
+      y: 5
+      width: 132
+      height: 208
+    spriteID: c38d1013658b06ba0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 581, y: 5}
+  - name: skeleton-idle_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 4
+      width: 133
+      height: 207
+    spriteID: 893de67284b9bca60800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 722, y: 4}
+  - name: skeleton-idle_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 4
+      width: 128
+      height: 212
+    spriteID: f6bfc619eb1b1e6c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 863, y: 4}
+  - name: skeleton-idle_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1001
+      y: 5
+      width: 129
+      height: 209
+    spriteID: d3e297e56d9b1e910800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1001, y: 5}
+  - name: skeleton-idle_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1138
+      y: 4
+      width: 133
+      height: 200
+    spriteID: 3650432d48d792450800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1138, y: 4}
+  - name: skeleton-idle_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1280
+      y: 4
+      width: 130
+      height: 203
+    spriteID: 08aece8ad0e713640800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1280, y: 4}
+  - name: skeleton-idle_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1419
+      y: 4
+      width: 132
+      height: 201
+    spriteID: 5de9c1a12392e9e30800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1419, y: 4}
+  - name: skeleton-idle_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1559
+      y: 5
+      width: 124
+      height: 209
+    spriteID: ef62d036b504ac900800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1559, y: 5}
+  - name: skeleton-idle_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1692
+      y: 4
+      width: 128
+      height: 205
+    spriteID: 134e1d44c00bc9a00800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1692, y: 4}
+  - name: skeleton-idle_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 5
+      width: 125
+      height: 206
+    spriteID: 366d8d11f543f98c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1828, y: 5}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 162, y: 253}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: skeleton-idle 125
+    spriteName: skeleton-idle 125
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f8d74100545308545946e2b93441df5d
+    layerID: 127
+    mosaicPosition: {x: 4, y: 233}
+  - name: skeleton-idle 124
+    spriteName: skeleton-idle 124
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5a2558002f21f5a4ab1aa6a339caafcb
+    layerID: 126
+    mosaicPosition: {x: 4, y: 923}
+  - name: skeleton-idle 123
+    spriteName: skeleton-idle 123
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f24772745a06e6047b060802dd16bc8f
+    layerID: 125
+    mosaicPosition: {x: 4, y: 1382}
+  - name: skeleton-idle 122
+    spriteName: skeleton-idle 122
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aa338e6c53052b74e8bcaace2fde9555
+    layerID: 124
+    mosaicPosition: {x: 4, y: 1611}
+  - name: skeleton-idle 121
+    spriteName: skeleton-idle 121
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 268c887421c90864681f1dbcf32f1e4d
+    layerID: 123
+    mosaicPosition: {x: 150, y: 464}
+  - name: skeleton-idle 120
+    spriteName: skeleton-idle 120
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d529c56d6cee3be4f90882c0f4bc0b3d
+    layerID: 122
+    mosaicPosition: {x: 150, y: 922}
+  - name: skeleton-idle 119
+    spriteName: skeleton-idle 119
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ddb976bfc47cbf14992f2816119fa1d0
+    layerID: 121
+    mosaicPosition: {x: 150, y: 1380}
+  - name: skeleton-idle 118
+    spriteName: skeleton-idle 118
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1d45205cb1aa69a429862c0cc5dc379d
+    layerID: 120
+    mosaicPosition: {x: 291, y: 898}
+  - name: skeleton-idle 117
+    spriteName: skeleton-idle 117
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c38c035861db8e34e911f4b29f20a9de
+    layerID: 119
+    mosaicPosition: {x: 435, y: 649}
+  - name: skeleton-idle 116
+    spriteName: skeleton-idle 116
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8468610f7d5af5541847e3a796a92b45
+    layerID: 118
+    mosaicPosition: {x: 580, y: 442}
+  - name: skeleton-idle 115
+    spriteName: skeleton-idle 115
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bf906b3d9af5d6249a56516f9dde289b
+    layerID: 117
+    mosaicPosition: {x: 580, y: 1545}
+  - name: skeleton-idle 114
+    spriteName: skeleton-idle 114
+    isGroup: 0
+    parentIndex: -1
+    spriteID: de84dcce7e25e0443a7d7305c1e1ee0b
+    layerID: 116
+    mosaicPosition: {x: 863, y: 444}
+  - name: skeleton-idle 113
+    spriteName: skeleton-idle 113
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 98224e6c1aa59c548a98d059e713f2d8
+    layerID: 115
+    mosaicPosition: {x: 863, y: 1320}
+  - name: skeleton-idle 112
+    spriteName: skeleton-idle 112
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 091e0b99c83c19a409dd38324db77538
+    layerID: 114
+    mosaicPosition: {x: 863, y: 1544}
+  - name: skeleton-idle 111
+    spriteName: skeleton-idle 111
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 88c172fcdf5cbcb48b42fb8277afc245
+    layerID: 113
+    mosaicPosition: {x: 1138, y: 1473}
+  - name: skeleton-idle 110
+    spriteName: skeleton-idle 110
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6c2609bbd9f811249928af47ead1ba3b
+    layerID: 112
+    mosaicPosition: {x: 1138, y: 1696}
+  - name: skeleton-idle 109
+    spriteName: skeleton-idle 109
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 854fd3bef2a253d428b4d743c3e77b0b
+    layerID: 111
+    mosaicPosition: {x: 1000, y: 654}
+  - name: skeleton-idle 108
+    spriteName: skeleton-idle 108
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 88e4f1b9b6797ea4ea07b29d8ee0b573
+    layerID: 110
+    mosaicPosition: {x: 1000, y: 1096}
+  - name: skeleton-idle 107
+    spriteName: skeleton-idle 107
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 35bb6baeb8ac200419611e5e560742f0
+    layerID: 109
+    mosaicPosition: {x: 1419, y: 213}
+  - name: skeleton-idle 106
+    spriteName: skeleton-idle 106
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c4c55eb92b6801b4d8ab4032dba2e176
+    layerID: 108
+    mosaicPosition: {x: 1000, y: 876}
+  - name: skeleton-idle 105
+    spriteName: skeleton-idle 105
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9aa60aa6e643bbd4ba9158c32fdb6f93
+    layerID: 107
+    mosaicPosition: {x: 863, y: 669}
+  - name: skeleton-idle 104
+    spriteName: skeleton-idle 104
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3ac1eadf56253d14eb439754087ec326
+    layerID: 106
+    mosaicPosition: {x: 1000, y: 4}
+  - name: skeleton-idle 103
+    spriteName: skeleton-idle 103
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c0e4daa7b77865347a9419bb517adcc8
+    layerID: 105
+    mosaicPosition: {x: 721, y: 1338}
+  - name: skeleton-idle 102
+    spriteName: skeleton-idle 102
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 40508848be1c54e40af37cb445d234e5
+    layerID: 104
+    mosaicPosition: {x: 580, y: 4}
+  - name: skeleton-idle 101
+    spriteName: skeleton-idle 101
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9edfc7eeb475b354a81572e9e6471798
+    layerID: 103
+    mosaicPosition: {x: 435, y: 875}
+  - name: skeleton-idle 100
+    spriteName: skeleton-idle 100
+    isGroup: 0
+    parentIndex: -1
+    spriteID: df41656b019015143962914ceae4d533
+    layerID: 102
+    mosaicPosition: {x: 435, y: 4}
+  - name: skeleton-idle 099
+    spriteName: skeleton-idle 099
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b77ad5879eb4c574d95e36e87f5129ae
+    layerID: 101
+    mosaicPosition: {x: 435, y: 219}
+  - name: skeleton-idle 098
+    spriteName: skeleton-idle 098
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 904218fa82782714a980f72d10a31273
+    layerID: 100
+    mosaicPosition: {x: 435, y: 434}
+  - name: skeleton-idle 097
+    spriteName: skeleton-idle 097
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e22bb63dae960bd489db79c95664c95e
+    layerID: 99
+    mosaicPosition: {x: 435, y: 1091}
+  - name: skeleton-idle 096
+    spriteName: skeleton-idle 096
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 43a019f07059ce149957c7df1272e63c
+    layerID: 98
+    mosaicPosition: {x: 721, y: 4}
+  - name: skeleton-idle 095
+    spriteName: skeleton-idle 095
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 29c6b8ed9d60bfa4b9ad5e49c94f11c5
+    layerID: 97
+    mosaicPosition: {x: 580, y: 668}
+  - name: skeleton-idle 094
+    spriteName: skeleton-idle 094
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a2395445ae2cacc47996bdad8b579ab5
+    layerID: 96
+    mosaicPosition: {x: 580, y: 884}
+  - name: skeleton-idle 093
+    spriteName: skeleton-idle 093
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 428b3bd9938b5e542b515b62463222a7
+    layerID: 95
+    mosaicPosition: {x: 580, y: 1100}
+  - name: skeleton-idle 092
+    spriteName: skeleton-idle 092
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b464a077c027b2c42adecbf6163fc610
+    layerID: 94
+    mosaicPosition: {x: 721, y: 1122}
+  - name: skeleton-idle 091
+    spriteName: skeleton-idle 091
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 66886187eb8cc8f4bb8332ecbe5b3cd7
+    layerID: 93
+    mosaicPosition: {x: 150, y: 1837}
+  - name: skeleton-idle 090
+    spriteName: skeleton-idle 090
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7e0eb47b54659d24d805a65ca67cd07c
+    layerID: 92
+    mosaicPosition: {x: 1000, y: 222}
+  - name: skeleton-idle 089
+    spriteName: skeleton-idle 089
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 68e07926500bd5044853df0b883c4dd2
+    layerID: 91
+    mosaicPosition: {x: 1000, y: 438}
+  - name: skeleton-idle 088
+    spriteName: skeleton-idle 088
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ea425aa8d721393409decceecdca2547
+    layerID: 90
+    mosaicPosition: {x: 863, y: 888}
+  - name: skeleton-idle 087
+    spriteName: skeleton-idle 087
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 48ecaa187b9c4a94b8a7c78fd263ba44
+    layerID: 89
+    mosaicPosition: {x: 863, y: 1104}
+  - name: skeleton-idle 086
+    spriteName: skeleton-idle 086
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8b00052fd6d664f40b92e11a7f80a38a
+    layerID: 88
+    mosaicPosition: {x: 863, y: 1768}
+  - name: skeleton-idle 085
+    spriteName: skeleton-idle 085
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2e1cd351c2505d143bb3f85772eff211
+    layerID: 87
+    mosaicPosition: {x: 1000, y: 1750}
+  - name: skeleton-idle 084
+    spriteName: skeleton-idle 084
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8a9a8cc3f039a544a94cbda3b3224c97
+    layerID: 86
+    mosaicPosition: {x: 1280, y: 426}
+  - name: skeleton-idle 083
+    spriteName: skeleton-idle 083
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cedb8bf95524a094d8811c788249b83d
+    layerID: 85
+    mosaicPosition: {x: 1419, y: 1070}
+  - name: skeleton-idle 082
+    spriteName: skeleton-idle 082
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7fbf388ca6b0b2a47807e8b2d44b84df
+    layerID: 84
+    mosaicPosition: {x: 1559, y: 1524}
+  - name: skeleton-idle 081
+    spriteName: skeleton-idle 081
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4eb4a25d9c659b047bebb80be99124a7
+    layerID: 83
+    mosaicPosition: {x: 1692, y: 1073}
+  - name: skeleton-idle 080
+    spriteName: skeleton-idle 080
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c548d0ce46eaa4147b174656280f1c3e
+    layerID: 82
+    mosaicPosition: {x: 1692, y: 1290}
+  - name: skeleton-idle 079
+    spriteName: skeleton-idle 079
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ec15f3341ad3c44ea60891e0fe84002
+    layerID: 81
+    mosaicPosition: {x: 1419, y: 1287}
+  - name: skeleton-idle 078
+    spriteName: skeleton-idle 078
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0a23745b10a46ab478b0eaf51591aa12
+    layerID: 80
+    mosaicPosition: {x: 1692, y: 1507}
+  - name: skeleton-idle 077
+    spriteName: skeleton-idle 077
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6aa7960151632cf4c980b3668d10c6cd
+    layerID: 79
+    mosaicPosition: {x: 1692, y: 1724}
+  - name: skeleton-idle 076
+    spriteName: skeleton-idle 076
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 094d205b0cc879745a7715a84f53ac44
+    layerID: 78
+    mosaicPosition: {x: 1559, y: 222}
+  - name: skeleton-idle 075
+    spriteName: skeleton-idle 075
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d4c7b2846b067dc40b2e4b7beddd92bb
+    layerID: 77
+    mosaicPosition: {x: 1419, y: 1716}
+  - name: skeleton-idle 074
+    spriteName: skeleton-idle 074
+    isGroup: 0
+    parentIndex: -1
+    spriteID: de0060c958d43cb4abb462c2366cbc13
+    layerID: 76
+    mosaicPosition: {x: 1559, y: 439}
+  - name: skeleton-idle 073
+    spriteName: skeleton-idle 073
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8b812e5546ec4124b9cdc0dd0f082dd0
+    layerID: 75
+    mosaicPosition: {x: 1559, y: 656}
+  - name: skeleton-idle 072
+    spriteName: skeleton-idle 072
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 18f5ea319f6011044bb653ebac715940
+    layerID: 74
+    mosaicPosition: {x: 1559, y: 873}
+  - name: skeleton-idle 071
+    spriteName: skeleton-idle 071
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 080eeb8d50aae06439f94c623358fa0a
+    layerID: 73
+    mosaicPosition: {x: 1559, y: 1740}
+  - name: skeleton-idle 070
+    spriteName: skeleton-idle 070
+    isGroup: 0
+    parentIndex: -1
+    spriteID: caa8553b368135d42a52157beedd7fdd
+    layerID: 72
+    mosaicPosition: {x: 1828, y: 649}
+  - name: skeleton-idle 069
+    spriteName: skeleton-idle 069
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 290a66aa2b71d654694b0a094579c1ce
+    layerID: 71
+    mosaicPosition: {x: 1828, y: 1727}
+  - name: skeleton-idle 068
+    spriteName: skeleton-idle 068
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 951aea0a7e934fd4e99f36fd3a683901
+    layerID: 70
+    mosaicPosition: {x: 1828, y: 4}
+  - name: skeleton-idle 067
+    spriteName: skeleton-idle 067
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4ad9d217e4c28794b8b4c3507d783e02
+    layerID: 69
+    mosaicPosition: {x: 1828, y: 219}
+  - name: skeleton-idle 066
+    spriteName: skeleton-idle 066
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a38e11fe13ee1db40bdc0a6e06f657a8
+    layerID: 68
+    mosaicPosition: {x: 1828, y: 1513}
+  - name: skeleton-idle 065
+    spriteName: skeleton-idle 065
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0378143b0143f5b49a75045152e8e85f
+    layerID: 67
+    mosaicPosition: {x: 1692, y: 217}
+  - name: skeleton-idle 064
+    spriteName: skeleton-idle 064
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ac4bb1d79a96758498b925b1f6b58363
+    layerID: 66
+    mosaicPosition: {x: 1692, y: 431}
+  - name: skeleton-idle 063
+    spriteName: skeleton-idle 063
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1d36a36e205cfb246938b39fdcafc246
+    layerID: 65
+    mosaicPosition: {x: 1419, y: 856}
+  - name: skeleton-idle 062
+    spriteName: skeleton-idle 062
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 59b7553ba4aadd34d8cac0d8a054d243
+    layerID: 64
+    mosaicPosition: {x: 1000, y: 1536}
+  - name: skeleton-idle 061
+    spriteName: skeleton-idle 061
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 85be6e19bb321744290cfedc545617f6
+    layerID: 63
+    mosaicPosition: {x: 1280, y: 1495}
+  - name: skeleton-idle 060
+    spriteName: skeleton-idle 060
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6e9a16c4f1dd95c4db10bb88b9c564e5
+    layerID: 62
+    mosaicPosition: {x: 1280, y: 1708}
+  - name: skeleton-idle 059
+    spriteName: skeleton-idle 059
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a6dd6d6a672dbdb408e7826e5df99bb5
+    layerID: 61
+    mosaicPosition: {x: 1280, y: 643}
+  - name: skeleton-idle 058
+    spriteName: skeleton-idle 058
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 27c6a3d25e550224eba4ce5f27a84827
+    layerID: 60
+    mosaicPosition: {x: 1280, y: 855}
+  - name: skeleton-idle 057
+    spriteName: skeleton-idle 057
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ebbc4d5281b35ba45bf3bc35720d9d92
+    layerID: 59
+    mosaicPosition: {x: 1419, y: 434}
+  - name: skeleton-idle 056
+    spriteName: skeleton-idle 056
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d2b94299919bea448bddda101984a097
+    layerID: 58
+    mosaicPosition: {x: 1280, y: 4}
+  - name: skeleton-idle 055
+    spriteName: skeleton-idle 055
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a95d8f9e7ee324f42a7444a08d3f2391
+    layerID: 57
+    mosaicPosition: {x: 1280, y: 1067}
+  - name: skeleton-idle 054
+    spriteName: skeleton-idle 054
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9b5a7648762b65b48a7768a0c1cf65f5
+    layerID: 56
+    mosaicPosition: {x: 1280, y: 215}
+  - name: skeleton-idle 053
+    spriteName: skeleton-idle 053
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5866e36669334ae49aba898417d45362
+    layerID: 55
+    mosaicPosition: {x: 1138, y: 212}
+  - name: skeleton-idle 052
+    spriteName: skeleton-idle 052
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8781cc204fa8e9d46b4b04424cf09641
+    layerID: 54
+    mosaicPosition: {x: 1138, y: 843}
+  - name: skeleton-idle 051
+    spriteName: skeleton-idle 051
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b9f9842b79fc5c744ad67c541034e0d2
+    layerID: 53
+    mosaicPosition: {x: 1138, y: 1053}
+  - name: skeleton-idle 050
+    spriteName: skeleton-idle 050
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0300bdf671c406444a77bb5abdd19f7d
+    layerID: 52
+    mosaicPosition: {x: 1419, y: 4}
+  - name: skeleton-idle 049
+    spriteName: skeleton-idle 049
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5ce76a476f9e67b45bb34f72518713f7
+    layerID: 51
+    mosaicPosition: {x: 4, y: 1840}
+  - name: skeleton-idle 048
+    spriteName: skeleton-idle 048
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6a867f49b1913984285e225c6c5f7b54
+    layerID: 50
+    mosaicPosition: {x: 1138, y: 4}
+  - name: skeleton-idle 047
+    spriteName: skeleton-idle 047
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4f3ef3bec26e5c14fbf06842f3438c1f
+    layerID: 49
+    mosaicPosition: {x: 1138, y: 634}
+  - name: skeleton-idle 046
+    spriteName: skeleton-idle 046
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0aee01dc321b4c44892cef0876636922
+    layerID: 48
+    mosaicPosition: {x: 1138, y: 1263}
+  - name: skeleton-idle 045
+    spriteName: skeleton-idle 045
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e42f5772f61dbdf4b9db4efb54f9c6fd
+    layerID: 47
+    mosaicPosition: {x: 1138, y: 423}
+  - name: skeleton-idle 044
+    spriteName: skeleton-idle 044
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 427878b2098325a47bdbf9eb89e2b8e3
+    layerID: 46
+    mosaicPosition: {x: 1419, y: 645}
+  - name: skeleton-idle 043
+    spriteName: skeleton-idle 043
+    isGroup: 0
+    parentIndex: -1
+    spriteID: adb198696a062d74db8285bad9d22a28
+    layerID: 45
+    mosaicPosition: {x: 1419, y: 1504}
+  - name: skeleton-idle 042
+    spriteName: skeleton-idle 042
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4f0b6e7ed40542a43b35373ae163811d
+    layerID: 44
+    mosaicPosition: {x: 1692, y: 4}
+  - name: skeleton-idle 041
+    spriteName: skeleton-idle 041
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 560b5fac25718ba46b41857d23741def
+    layerID: 43
+    mosaicPosition: {x: 1692, y: 645}
+  - name: skeleton-idle 040
+    spriteName: skeleton-idle 040
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 846bed55f24c7584ebf2a06262f38d6c
+    layerID: 42
+    mosaicPosition: {x: 1692, y: 859}
+  - name: skeleton-idle 039
+    spriteName: skeleton-idle 039
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 45e6606d81dc56b4a81fa8eae82cfd28
+    layerID: 41
+    mosaicPosition: {x: 1828, y: 434}
+  - name: skeleton-idle 038
+    spriteName: skeleton-idle 038
+    isGroup: 0
+    parentIndex: -1
+    spriteID: edd160971f01ddb49a761c8dd52b8399
+    layerID: 40
+    mosaicPosition: {x: 1828, y: 865}
+  - name: skeleton-idle 037
+    spriteName: skeleton-idle 037
+    isGroup: 0
+    parentIndex: -1
+    spriteID: be22c509fee07474890142cf105e3e9b
+    layerID: 39
+    mosaicPosition: {x: 1828, y: 1081}
+  - name: skeleton-idle 036
+    spriteName: skeleton-idle 036
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d92d339e78507ff438ddc75bfaa5130f
+    layerID: 38
+    mosaicPosition: {x: 1828, y: 1297}
+  - name: skeleton-idle 035
+    spriteName: skeleton-idle 035
+    isGroup: 0
+    parentIndex: -1
+    spriteID: be03a97c56efa404f80bdb09d8e70ea5
+    layerID: 37
+    mosaicPosition: {x: 1559, y: 1090}
+  - name: skeleton-idle 034
+    spriteName: skeleton-idle 034
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6e289ce1161446647b87f6df6b68a368
+    layerID: 36
+    mosaicPosition: {x: 1559, y: 1307}
+  - name: skeleton-idle 033
+    spriteName: skeleton-idle 033
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dedd20a7513e2db42b9aa95c95101149
+    layerID: 35
+    mosaicPosition: {x: 1559, y: 4}
+  - name: skeleton-idle 032
+    spriteName: skeleton-idle 032
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fd41776d8d1888f4d82af22de0f18817
+    layerID: 34
+    mosaicPosition: {x: 1280, y: 1277}
+  - name: skeleton-idle 031
+    spriteName: skeleton-idle 031
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3d8eac326b1c5e440a89f238da4f596c
+    layerID: 33
+    mosaicPosition: {x: 1000, y: 1317}
+  - name: skeleton-idle 030
+    spriteName: skeleton-idle 030
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1419c37d104ad5e4992a4182c2bfafc5
+    layerID: 32
+    mosaicPosition: {x: 863, y: 224}
+  - name: skeleton-idle 029
+    spriteName: skeleton-idle 029
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 395701c5670663949b0ef9ef23a4ac75
+    layerID: 31
+    mosaicPosition: {x: 863, y: 4}
+  - name: skeleton-idle 028
+    spriteName: skeleton-idle 028
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7613bb9927d3ee045bed3d63686c3cd0
+    layerID: 30
+    mosaicPosition: {x: 721, y: 675}
+  - name: skeleton-idle 027
+    spriteName: skeleton-idle 027
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6f97a4cb2b8140543ae9c9666147a9bc
+    layerID: 29
+    mosaicPosition: {x: 580, y: 221}
+  - name: skeleton-idle 026
+    spriteName: skeleton-idle 026
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 593f0255d623d1b43ad2d9d4fbfcb7eb
+    layerID: 28
+    mosaicPosition: {x: 435, y: 1532}
+  - name: skeleton-idle 025
+    spriteName: skeleton-idle 025
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ffc86b8fd6a1bfb468480f4b8bcb61f6
+    layerID: 27
+    mosaicPosition: {x: 291, y: 1347}
+  - name: skeleton-idle 024
+    spriteName: skeleton-idle 024
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 53e73936c1aecc2438aed3f8c21bea30
+    layerID: 26
+    mosaicPosition: {x: 291, y: 1125}
+  - name: skeleton-idle 023
+    spriteName: skeleton-idle 023
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 132ff05e50e233d4c98c3bfdd09d8268
+    layerID: 25
+    mosaicPosition: {x: 291, y: 227}
+  - name: skeleton-idle 022
+    spriteName: skeleton-idle 022
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b16f9c1aba1d9e341a09fa2382205d32
+    layerID: 24
+    mosaicPosition: {x: 291, y: 4}
+  - name: skeleton-idle 021
+    spriteName: skeleton-idle 021
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 814900d0bdbb4bf48ae38950eec709eb
+    layerID: 23
+    mosaicPosition: {x: 291, y: 450}
+  - name: skeleton-idle 020
+    spriteName: skeleton-idle 020
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 57e4c74442528184b82059f8d771cf0f
+    layerID: 22
+    mosaicPosition: {x: 291, y: 674}
+  - name: skeleton-idle 019
+    spriteName: skeleton-idle 019
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 17ecd42a347c7a2489c7cac68a6077db
+    layerID: 21
+    mosaicPosition: {x: 291, y: 1569}
+  - name: skeleton-idle 018
+    spriteName: skeleton-idle 018
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8bf3cbbbe2f69a04f9820e393ea80593
+    layerID: 20
+    mosaicPosition: {x: 435, y: 1306}
+  - name: skeleton-idle 017
+    spriteName: skeleton-idle 017
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ea57b1cc5df97134cbf925f0a46e1202
+    layerID: 19
+    mosaicPosition: {x: 721, y: 896}
+  - name: skeleton-idle 016
+    spriteName: skeleton-idle 016
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 08ee41282d235a248ae149a57ce8b5ef
+    layerID: 18
+    mosaicPosition: {x: 721, y: 1555}
+  - name: skeleton-idle 015
+    spriteName: skeleton-idle 015
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6d298b9feca467f46b5671881f75efcf
+    layerID: 17
+    mosaicPosition: {x: 721, y: 1782}
+  - name: skeleton-idle 014
+    spriteName: skeleton-idle 014
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 41696c440e39916449e34343b5e84ea0
+    layerID: 16
+    mosaicPosition: {x: 580, y: 1770}
+  - name: skeleton-idle 013
+    spriteName: skeleton-idle 013
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 341c562e72038ff4f8d23405c4ab436b
+    layerID: 15
+    mosaicPosition: {x: 721, y: 219}
+  - name: skeleton-idle 012
+    spriteName: skeleton-idle 012
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 52a92fef17aa847469b7c8c45d1dea7e
+    layerID: 14
+    mosaicPosition: {x: 721, y: 447}
+  - name: skeleton-idle 011
+    spriteName: skeleton-idle 011
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a0e154dfb1f7b8e458841b18b5e4ff67
+    layerID: 13
+    mosaicPosition: {x: 580, y: 1316}
+  - name: skeleton-idle 010
+    spriteName: skeleton-idle 010
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c27306131b5f58542a9b0ebc6f19fb2b
+    layerID: 12
+    mosaicPosition: {x: 435, y: 1753}
+  - name: skeleton-idle 009
+    spriteName: skeleton-idle 009
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 582ae69dfa1c2e84aa4fb5cc3131db83
+    layerID: 11
+    mosaicPosition: {x: 291, y: 1794}
+  - name: skeleton-idle 008
+    spriteName: skeleton-idle 008
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 96193805b59bd7f4eb058ed1843151e4
+    layerID: 10
+    mosaicPosition: {x: 150, y: 1607}
+  - name: skeleton-idle 007
+    spriteName: skeleton-idle 007
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 70f2b065c1592ee4c99d1eabbf5a0229
+    layerID: 9
+    mosaicPosition: {x: 150, y: 1150}
+  - name: skeleton-idle 006
+    spriteName: skeleton-idle 006
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6a873a0e687f37649900a7f11c556a76
+    layerID: 8
+    mosaicPosition: {x: 150, y: 692}
+  - name: skeleton-idle 005
+    spriteName: skeleton-idle 005
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 40ccf4ae4edb99b4b9737446e1d0f342
+    layerID: 7
+    mosaicPosition: {x: 150, y: 234}
+  - name: skeleton-idle 004
+    spriteName: skeleton-idle 004
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0b3417f63e285cd4da92f1a898cd73bd
+    layerID: 6
+    mosaicPosition: {x: 150, y: 4}
+  - name: skeleton-idle 003
+    spriteName: skeleton-idle 003
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5f9d07035546b384aade6286f843c50b
+    layerID: 5
+    mosaicPosition: {x: 4, y: 1152}
+  - name: skeleton-idle 002
+    spriteName: skeleton-idle 002
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c7971efd5370c8145a76520fbe56363e
+    layerID: 4
+    mosaicPosition: {x: 4, y: 693}
+  - name: skeleton-idle 001
+    spriteName: skeleton-idle 001
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6884cd40fe5a0a948b0ccb1bc42b56cb
+    layerID: 3
+    mosaicPosition: {x: 4, y: 463}
+  - name: skeleton-idle 000
+    spriteName: skeleton-idle 000
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e6129944a49a67b499928eb0e8f92406
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+  sharedRigPSDLayers: []
+  generateGOHierarchy: 0
+  textureAssetName: skeleton-idle Texture
+  prefabAssetName: skeleton-idle Prefab
+  spriteLibAssetName: skeleton-idle Sprite Lib
+  skeletonAssetName: skeleton-idle Skeleton
+  secondarySpriteTextures: []

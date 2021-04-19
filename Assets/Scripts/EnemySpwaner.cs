@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class EnemySpwaner : MonoBehaviour
 {
@@ -10,13 +11,20 @@ public class EnemySpwaner : MonoBehaviour
     public class Wave
     {
         public string Name;
-        public Transform enemy;
+        public Transform[] enemy;
         public int count;
         public float rate;
     }
 
+    //panel
+    public GameObject level;
+    public Text leveltext;
+    private float leveltimecount=2;
+
     public Wave[] waves;
     private int nextwave = 0;
+    private int waveCount = 0;
+    private int releaseCount = 1;
 
     public Transform[] spwanPoints;
 
@@ -24,11 +32,14 @@ public class EnemySpwaner : MonoBehaviour
     public float waveCountDown;
     private float searchCountDown = 1f;
 
+    int maxEnemy = 1;
+
     private spwanState state = spwanState.Counting;
     // Start is called before the first frame update
     void Start()
     {
-        waveCountDown = timeBetweenWaves; 
+        waveCountDown = timeBetweenWaves;
+        //level.SetActive(true);
     }
 
     // Update is called once per frame
@@ -56,6 +67,20 @@ public class EnemySpwaner : MonoBehaviour
         {
             waveCountDown -= Time.deltaTime;
         }
+
+        if(leveltimecount == 0)
+        {
+            level.SetActive(false);
+        }
+        else
+        {
+            level.SetActive(true);
+        }
+        leveltimecount -= Time.deltaTime;
+        if(leveltimecount < 0)
+        {
+            leveltimecount = 0;
+        }
     }
 
     bool isEnemyAlive()
@@ -74,17 +99,26 @@ public class EnemySpwaner : MonoBehaviour
 
     void waveCompleted()
     {
-        Debug.Log("Wave complete");
         state = spwanState.Counting;
         waveCountDown = timeBetweenWaves;
+        if(maxEnemy < 3)
+        {
+            maxEnemy++;
+        }
 
+        leveltimecount = 2;
         if(nextwave + 1 > waves.Length -1)
         {
-            nextwave = 0;
-            Debug.Log("All WAVES COMPLETED");
+            nextwave = -1;
+            for (int i = 0; i < waves.Length; i++)
+            {
+                waves[i].count++;
+            }
         }
 
         nextwave++;
+        waveCount++;
+        leveltext.text = "Level " + (waveCount + 1);
     }
 
     IEnumerator spwanWave(Wave _wave)
@@ -92,7 +126,7 @@ public class EnemySpwaner : MonoBehaviour
         state = spwanState.Spwaning;
         for(int i = 0;i < _wave.count;i++)
         {
-            spwanEnemy(_wave.enemy);
+            spwanEnemy(_wave.enemy[Random.Range(0,maxEnemy)]);
             yield return new WaitForSeconds(1f / _wave.rate);
         }
         state = spwanState.Waiting;
@@ -106,4 +140,16 @@ public class EnemySpwaner : MonoBehaviour
         Instantiate(_enemy, _sp.position, _sp.rotation);
     }
 
+    public bool releaseFireBalls()
+    {
+        if(waveCount == releaseCount)
+        {
+            releaseCount++;
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
 }
